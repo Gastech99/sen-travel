@@ -66,6 +66,11 @@ Aucune dépendance ni installation supplémentaire n’est requise.
 
 Projet réalisé par [Djimo Gassama].
 
+
+## Lien du site pour visiter
+[Sen-travel](https://gastech99.github.io/sen-travel/)
+
 ---
 
 © 2025 Sen Travel – Tous
+
